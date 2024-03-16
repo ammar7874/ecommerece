@@ -41,7 +41,7 @@ class _ShopDashBoardScreenState extends State<ShopDashBoardScreen> {
                   },
                   children: const [
                     ShopHomeScreen(),
-                    z(),
+                    
                     StoreCategoryPage(),
                     ShopSettingPage()
                   ],
